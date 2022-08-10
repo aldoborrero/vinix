@@ -15,7 +15,6 @@
   - [Packages](./outputs/pkgs.md)
 - [Concerns]()
   - [Secrets](./secrets.md)
-  - [Tests](./tests.md)
 - [Integrations](./integrations/index.md)
   - [Cachix](./integrations/cachix.md)
   - [Deploy RS](./integrations/deploy.md)
